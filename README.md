@@ -1,7 +1,7 @@
 
 
 
-Giao diện thân thiện, dễ sử dụng, chức năng khá đầy đủ.
+
 
 Chức năng **Cơ bản**:
 
