@@ -1,6 +1,5 @@
 
 
-Project web tĩnh, đề tài trang web bán điện thoại.
 
 Giao diện thân thiện, dễ sử dụng, chức năng khá đầy đủ.
 
